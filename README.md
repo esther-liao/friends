@@ -1,2 +1,0 @@
-# friends
-fake user list
