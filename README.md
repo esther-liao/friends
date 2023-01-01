@@ -1,0 +1,2 @@
+# friends
+fake user list
